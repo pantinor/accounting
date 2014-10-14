@@ -1,0 +1,6 @@
+.printers.*|Cash
+.stuff.*|Undeposited Funds
+.things.*|Accounts Receivable
+.payroll.*|Accrued Expenses
+.taxes.*|Travel & Entertainment:Cell Phone
+.computers.*|General & Administrative:Utilities

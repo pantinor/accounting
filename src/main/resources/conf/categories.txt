@@ -1,0 +1,65 @@
+Cash	Cash
+Bank Account Name	Bank
+Accounts Receivable	Accounts Receivable
+Prepaid Expenses	Other Current Asset
+Undeposited Funds	Other Current Asset
+Gross Fixed Assets	Fixed Asset
+Gross Fixed Assets:Computer Equipment/Software	Fixed Asset
+Gross Fixed Assets:Leasehold Improvements	Fixed Asset
+Gross Fixed Assets:Furniture and Fixtures	Fixed Asset
+Accumulated Depreciation	Fixed Asset
+Deposits	Other Asset
+Accounts Payable	Accounts Payable
+Credit Card Account Name	Credit Card
+Accrued Vacation	Other Current Liability
+Accrued Expenses	Other Current Liability
+Loan Payable	Long Term Liability
+Interest Payable	Long Term Liability
+Common Stock	Equity
+Retained Earnings	Equity
+Revenues	Income
+Cost of Good Sold	Cost of Goods Sold
+Salaries & Benefits	Expense
+Salaries & Benefits:Wages	Expense
+Salaries & Benefits:ER Payroll Taxes	Expense
+Salaries & Benefits:Benefits	Expense
+Salaries & Benefits:Subcontractors	Expense
+Salaries & Benefits:Workers Comp Ins.	Expense
+Salaries & Benefits:Payroll Processing Fees	Expense
+Salaries & Benefits:Other Payroll & Benefits	Expense
+General & Administrative	Expense
+General & Administrative:Facilities Rent	Expense
+General & Administrative:Utilities	Expense
+General & Administrative:Cleaning Services	Expense
+General & Administrative:Internet & Telephone	Expense
+General & Administrative:Postage & Delivery	Expense
+General & Administrative:Dues & Subscriptions	Expense
+General & Administrative:Insurance Expense	Expense
+General & Administrative:Hardware & Software (non-cap)	Expense
+General & Administrative:Office Supplies	Expense
+General & Administrative:Repairs & Maintenance	Expense
+General & Administrative:Filing Fees	Expense
+General & Administrative:Bank Service Charges	Expense
+General & Administrative:Charitable Donations	Expense
+General & Administrative:Depreciation Expense	Expense
+General & Administrative:Other G&A Expenses	Expense
+Professional Fees	Expense
+Professional Fees:Bookkeeping/Accounting	Expense
+Professional Fees:Legal Fees	Expense
+Professional Fees:Other Professional Fees	Expense
+Travel & Entertainment	Expense
+Travel & Entertainment:Meals and Entertainment	Expense
+Travel & Entertainment:Airfare and Rail Expense	Expense
+Travel & Entertainment:Car Rental	Expense
+Travel & Entertainment:Cell Phone	Expense
+Travel & Entertainment:Lodging	Expense
+Travel & Entertainment:Other Travel	Expense
+Marketing	Expense
+Marketing:Marketing Consultants	Expense
+Marketing:Advertising & Promotion	Expense
+Marketing:Tradeshow & Event Expense	Expense
+Marketing:Printing & Reproduction	Expense
+Marketing:Other Marketing	Expense
+Interest Income	Other Income
+Suspense	Other Expense
+Interest Expense	Other Expense
